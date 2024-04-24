@@ -1,0 +1,21 @@
+# H2 Database Configuration
+spring.datasource.url=jdbc:h2:mem:testdb
+spring.datasource.driverClassName=org.h2.Driver
+spring.datasource.username=sa
+spring.datasource.password=
+spring.h2.console.enabled=true
+server.port=9090
+  
+  # Hibernate Properties
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.H2Dialect
+spring.jpa.hibernate.ddl-auto=update
+  
+  # Set logging level for Spring Framework and Hibernate to DEBUG
+logging.level.org.springframework=DEBUG
+logging.level.org.hibernate=DEBUG
+  
+  # Logging Configuration
+logging.level.com.enviro.assessment.grad001.HazelRadingoana.model=INFO
+logging.level.com.enviro.assessment.grad001.HazelRadingoana.repository=INFO
+logging.level.com.enviro.assessment.grad001.HazelRadingoana.service=INFO
+logging.level.com.enviro.assessment.grad001.HazelRadingoana.controller=INFO
