@@ -18,6 +18,13 @@ Database Implementation: An in-memory H2 database is used to store application d
 Spring Boot Application: The submission is a Spring Boot application with REST endpoints for communication between frontend and backend systems.
 
 
+Installation:
+
+Clone the repository: git clone <repository-url>
+Configure the application properties as needed.
+Build the project: mvn clean install
+Run the application: java -jar target/waste-sorting-app-1.0-SNAPSHOT.jar
+
 Endpoints:
 
 /api/waste-categories: CRUD operations for waste categories.

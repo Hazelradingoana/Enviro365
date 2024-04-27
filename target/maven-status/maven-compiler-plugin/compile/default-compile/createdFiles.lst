@@ -1,0 +1,14 @@
+com/enviro/assessment/grad001/HazelRadingoana/service/DisposalGuidelineService.class
+com/enviro/assessment/grad001/HazelRadingoana/controllers/DisposalGuidelineController.class
+com/enviro/assessment/grad001/HazelRadingoana/repository/WasteCategoryRepository.class
+com/enviro/assessment/grad001/HazelRadingoana/Application.class
+com/enviro/assessment/grad001/HazelRadingoana/model/WasteCategory.class
+com/enviro/assessment/grad001/HazelRadingoana/model/DisposalGuideline.class
+com/enviro/assessment/grad001/HazelRadingoana/controllers/WasteCategoryController.class
+com/enviro/assessment/grad001/HazelRadingoana/model/RecyclingTip.class
+com/enviro/assessment/grad001/HazelRadingoana/repository/RecyclingTipRepository.class
+com/enviro/assessment/grad001/HazelRadingoana/model/UserProfile.class
+com/enviro/assessment/grad001/HazelRadingoana/repository/DisposalGuidelineRepository.class
+com/enviro/assessment/grad001/HazelRadingoana/service/RecyclingTipService.class
+com/enviro/assessment/grad001/HazelRadingoana/service/WasteCategoryService.class
+com/enviro/assessment/grad001/HazelRadingoana/controllers/RecyclingTipController.class
