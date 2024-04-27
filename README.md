@@ -28,3 +28,10 @@ Usage:
 
 Access the REST endpoints using a client application or tools like cURL or Postman.
 Send requests to retrieve, create, update, or delete data related to waste categories, disposal guidelines, and recycling tips.
+
+Dependencies:
+
+Java 8+
+Maven
+Spring Boot
+H2 Database
